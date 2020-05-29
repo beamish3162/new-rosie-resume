@@ -1,19 +1,15 @@
-@import url('http://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 
 br {
   display: block;
   line-height: 1.6em;
 }
 
-
-
-ol,
-ul {
+ol, ul {
   list-style: none;
 }
 
-input,
-textarea {
+input, textarea {
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -50,7 +46,6 @@ img {
   border: 0;
   max-width: 100%;
 }
-
 
 
 /* page structure */
@@ -157,6 +152,7 @@ img {
   font-family: "Courier New", Courier, "Lucida Typewriter", monospace;
   font-size: 0.9em;
 }
+
 
 /* input field */
 
